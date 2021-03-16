@@ -1,18 +1,11 @@
 ﻿using Discord;
 using Discord.Commands;
 using HtmlAgilityPack;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.IO;
-using System.Net;
 using System.Net.Http;
-using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using ArcheageBot.Config;
 
 namespace ArcheageBot.command
 {
