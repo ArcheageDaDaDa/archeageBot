@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ArcheageBot.Config
+{
+    public class Config
+    {
+        public readonly static string botToken = "";
+    }
+}
